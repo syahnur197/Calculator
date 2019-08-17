@@ -7,7 +7,8 @@
       </h1>
     </div>
     <div class="container">
-      <p>Hello! Welcome to Calculator. Use this website to calculate your volume!</p>
+      <h4>Hello! Welcome to Calculator. Use this website to calculate your volume!</h4>
+      <p>Note that the lot calculated is a rough estimate, it should be accurate for all XXXUSD pairs!</p>
       <label>Select Your Account</label>
       <br>
       <input type="radio" name="standard" value="0" id="" v-model="account"> Standard (100,000 unit per lot) <br>
